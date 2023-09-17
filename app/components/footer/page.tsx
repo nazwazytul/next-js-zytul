@@ -36,7 +36,7 @@ const Footer = () => {
                 <p className="pb-4 heading2 font-bold mx-16">Let's Connect</p>
                 <div className="flex gap-6 pb-5 py-5">
                 <Square />
-                <Image 
+                <Image
                 className="absolute mx-4 my-3 flex items-center justify-center"
                 src="/img/footer/gmail.png"
                 alt=""

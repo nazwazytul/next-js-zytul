@@ -51,11 +51,11 @@ const Ball = () => {
             height={100}
             />
             </div>
-            <div className="absolute flex flex-wrap justify-center heading list-none mb-28 text-center mt-6 ml-[360px]">
-            <li className="mx-32">Faktor genetik</li>
-            <li className="mx-20 w-60">Memilki pori-pori yang besar</li>
-            <li className="mx-20 w-80">Tidak cocok dengan produk skincare</li>
-            <li className="mx-14 w-80 mt-52">Tidak menggunakan pelembab</li>
+            <div className="absolute flex flex-wrap justify-center heading list-none mb-28 text-center mt-6 ml-[310px]">
+            <li className="mx-32 w-60">Faktor genetik</li>
+            <li className="mx-16 w-60">Memilki pori-pori yang besar</li>
+            <li className="ml-28  w-80">Tidak cocok dengan produk skincare</li>
+            <li className="ml-28 mr-10 w-80 mt-52">Tidak menggunakan pelembab</li>
             <li className="mx-20 w-80 mt-52">Berlebihan merawat kulit</li>
             <li className="mx-14 w-60 mt-52">Kurang minum air putih</li>
             </div>

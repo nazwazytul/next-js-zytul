@@ -144,7 +144,7 @@ const Home = () => {
         width={180}
         height={180}
         />
-      <div className="sub-title text-center font-Poppins w-[520px] py-28">Urutan Pemakaian Skincare Pagi</div>
+      <div className="sub-title text-center font-Poppins w-[520px] py-28">Urutan Pemakaian Skincare Malam</div>
       </div>
         <p className="heading px-40">Hal-hal yang harus kamu utamakan pada produk yang kamu pakai di malam hari adalah 
         kemampuan untuk mengangkat kotoran yang terkumpul di kulit seharian penuh serta bisa memperbaiki kulit ketika kamu tidur.
