@@ -25,3 +25,64 @@ body {
     )
     rgb(var(--background-start-rgb));
 }
+
+.title {
+  font-size: 100px;
+  font-weight: bold;
+}
+
+.sub-title {
+font-size: 50px;
+font-weight: bold;
+letter-spacing: 3px;
+}
+
+.heading{
+font-size: 25px;
+letter-spacing: 1px;
+font-family: 'Poppins', sans-serif;
+}
+
+.heading2{
+font-size: 20px;
+font-family: 'Poppins', sans-serif;
+}
+
+.bg-purple1 {
+  background-color: #E0C3B6;
+}
+
+.bg-purple2 {
+  background-color: #FEFBF2;
+}
+
+.bg-purple3 {
+  background-color: #BBA298;
+}
+
+.font-Poppins {
+font-family:'Poppins', sans-serif;
+}
+
+.line-height {
+  line-height: 2;
+}
+
+.button {
+  height: 80px;
+  width: 240px;
+  border-radius: 16px;
+  border: solid 3px white;
+  background-color: transparent;
+  cursor: pointer;
+  outline: none;
+  color: white;
+}
+
+.spark {
+  position: absolute;
+  width: 30px
+  height: 8px;
+  border-radius: 3px;
+  transform: none;
+}
