@@ -1,5 +1,5 @@
 import Image from 'next/image';
-import Log from '@/app/components/login/page';
+import Daf from '@/app/components/daftar/page';
 
 const Login = () => {
   return (
@@ -18,8 +18,8 @@ const Login = () => {
       <ul className='sub-title font-bold text-center'>GlowEvermore</ul>
        </div>
        <div className='absolute right-0 top-0 mt-32 mx-52 heading'>
-        <span className='flex justify-center items-center font-bold'>Masuk dan Jelajahi!</span>
-        <Log />
+        <span className='flex justify-center items-center font-bold'>Buat akun anda</span>
+        <Daf />
        </div>
     </div>
   );

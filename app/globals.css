@@ -81,7 +81,7 @@ font-family:'Poppins', sans-serif;
 
 .spark {
   position: absolute;
-  width: 30px
+  width: 30px;
   height: 8px;
   border-radius: 3px;
   transform: none;

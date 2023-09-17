@@ -20,9 +20,8 @@ const Navbar = () => {
                 <li><Link href="/pages/faq">Pertanyaan Umum</Link></li>
             </ul>
             <button className="bg-purple1 hover:bg-purple3 hover:text-white heading2 text-black font-bold py-2 px-6 mx-16 rounded">
-                <Link href="/pages/login">Daftar</Link>
+                <Link href="/pages/daftar">Daftar</Link>
             </button>
-
             </div> 
         </header>
     )
